@@ -22,7 +22,7 @@ sidonm_list = []
 dmnnm_list = []
 mngstatecode_list = []
 
-ServiceKey = 'YXPm4mAU%2BE3X6uM0ejs9kD85q4hAx5gz9v2UbgzCJsTgwDvRTs0yVAlvw%2BN0wpkA3nnltgEuCbAeMOpleQG%2F3g%3D%3D'
+ServiceKey = ''
 
 
 def get_total_page_num(url):
